@@ -1,0 +1,17 @@
+{
+  "name": "espruino-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "espruino-helper",
+  "scripts": {
+  },
+  "author": "Einar Ingebrigtsen",
+  "license": "MIT",
+  "dependencies": {
+    "jschardet": "^1.4.1",
+    "net": "^1.0.2"
+  },
+  "bin": {
+      "espruino-helper": "bin/espruino-helper.bin.js"
+  }
+}
